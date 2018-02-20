@@ -1,6 +1,6 @@
 # Library CRUD App
 
-This is a library app for collecting library.
+This is a library CRUD App Written in Emberjs.
 
 ## Prerequisites
 
